@@ -29,10 +29,10 @@ If you are already familiar with Python lists and you are ready to take the next
 <!---
 The easiest way of going through the full course is using the [O'Reilly platform](https://learning.oreilly.com/videos/deploying-containers-to/50135VIDEOPAIML/) but you can start here as well and on YouTube.
 
-1. [Creating Python dictionaries](./course/create-dictionaries.md)
-1. [Adding data](./course/adding-data.md)
-1. [Looping over dictionaries](./course/looping-dictionaries.md)
-1. [Retrieving data](./course/retrieving-data.md)
+1. [Creating Python dictionaries](./course/create-dictionaries.ipynb)
+1. [Adding data](./course/adding-data.ipynb)
+1. [Looping over dictionaries](./course/looping-dictionaries.ipynb)
+1. [Retrieving data](./course/retrieving-data.ipynb)
 
 -->
 
