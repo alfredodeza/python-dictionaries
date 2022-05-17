@@ -5,13 +5,11 @@ _Learn how to use Python dictionaries to store and retrieve data_
 
 Although dictionaries look complex with different ways to represent, retrieve, and store data, they can be straightforward to use. In this course I'll show you how to store, retrieve, and loop over dictionaries. Once you go through these different actions, you should be able to choose the right approach to work effectively with dictionaries.
 
-<!---
-All Videos are available on [YouTube](https://www.youtube.com/playlist?list=PLd5aRIS7MwjnS0tD_76sWMFVAxKaIcFWq), and the full course is also available on the [O'Reilly platform](https://learning.oreilly.com/videos/deploying-containers-to/50135VIDEOPAIML/)
+The full video is available on [YouTube](https://www.youtube.com/playlist?list=PLd5aRIS7MwjnS0tD_76sWMFVAxKaIcFWq), and the full course is also available on the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/)
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50135VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/deploying-containers-to/50135VIDEOPAIML/ "Deploy Containerized Apps on Azure")
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50136VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/ "Deploy Containerized Apps on Azure")
 > 🎥 Click the image above to access the full course on O'Reilly
 
--->
 
 If you are already familiar with Python lists and you are ready to take the next step with dictionaries, then this course is for you.
 
@@ -26,11 +24,8 @@ If you are already familiar with Python lists and you are ready to take the next
 
 # Course Content
 
-<!---
-The easiest way of going through the full course is using the [O'Reilly platform](https://learning.oreilly.com/videos/deploying-containers-to/50135VIDEOPAIML/) but you can start here as well and on YouTube.
+The easiest way of going through the full course is using the [O'Reilly platform](https://learning.oreilly.com/videos/python-dictionaries-course/50136VIDEOPAIML/) but you can start here as well and on [YouTube](https://youtu.be/Wu7j8z4B-1Y).
 
-
--->
 
 1. [Creating Python dictionaries](./course/create-dictionaries.ipynb)
 1. [Adding data](./course/adding-data.ipynb)
@@ -50,12 +45,9 @@ In this course you will learn:
 
 # Useful Resources
 
-<!---
-- [GitHub repository with sample code](https://github.com/alfredodeza/azure-flask-container-app)
+- [GitHub repository with sample code](https://github.com/alfredodeza/python-dictionaries)
+- [Python dictionaries Learn Module](https://docs.microsoft.com/learn/modules/python-dictionaries/?WT.mc_id=academic-0000-alfredodeza)
+- [Minimal Python book](https://www.amazon.com/Minimal-Python-efficient-programmer-onemillion2021-ebook/dp/B0855NSRR7)
 - [Free Azure Certification for Students](https://docs.microsoft.com/learn/certifications/student-training-and-certification?WT.mc_id=academic-0000-alfredodeza)
-- [Try Azure for Free](https://azure.microsoft.com/en-us/free/?WT.mc_id=academic-00000-alfredodeza)
-- [AZ-900 Azure Fundamentals reference guide](https://learning.oreilly.com/videos/az-900-azure-fundamentals/50125VIDEOPAIML/)
-- [Azure SAMBA file share](https://learning.oreilly.com/videos/azure-samba-file/50127VIDEOPAIML/)
-- [Azure Remote Compute for VSCode](https://learning.oreilly.com/videos/azure-remote-compute/50126VIDEOPAIML/)
+- [Python for Beginners Learn Path](https://docs.microsoft.com/learn/paths/beginner-python/?WT.mc_id=academic-0000-alfredodeza)
 
--->
